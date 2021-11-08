@@ -5,9 +5,8 @@
 
 ## Introducción / Problema de Negocio
        
-    Una empresa solicita ayuda debido a que muchos empleados han ido abandonando la compañía, por lo tanto, se quiere saber el por que sus empleados se van. 
-    Dado el conjunto de datos disponibles, se debe determinar un plan para utilizar el modelado de datos y así proporcionar una visión empresarial impactante.
-    Teniendo esto en cuenta, si se pudiera predecir las probabilidades de que un empleado renuncie, la empresa podría seleccionar a esos empleados para que reciban un trato especial.
+Una empresa solicita ayuda debido a que muchos empleados han ido abandonando la compañía, por lo tanto, se quiere saber el por que sus empleados se van. Dado el conjunto de datos disponibles, se debe determinar un plan para utilizar el modelado de datos y así proporcionar una visión empresarial impactante.
+Teniendo esto en cuenta, si se pudiera predecir las probabilidades de que un empleado renuncie, la empresa podría seleccionar a esos empleados para que reciban un trato especial.
 
 ## Data
 
