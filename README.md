@@ -18,25 +18,25 @@
     
 Columnas:  
 
-    • left: si el empleado abandonó o no la empresa.
+    • **left:** si el empleado abandonó o no la empresa.
     
-    • satisfaction_level: representa el nivel de satisfacción de cada empleado. 
+    • **satisfaction_level:** representa el nivel de satisfacción de cada empleado. 
     
-    • last_evaluation: indica la última evaluación realizada al empleado.
+    • **last_evaluation:** indica la última evaluación realizada al empleado.
     
-    • average_montly_hours:  promedio de horas trabajadas al mes.
+    • **average_montly_hours:**  promedio de horas trabajadas al mes.
     
-    • time_spend_company:  tiempo que tiene en la compañía. 
+    • **time_spend_company:**  tiempo que tiene en la compañía. 
     
-    • number_project:  número de proyectos realizados por cada empleado.
+    • **number_project:**  número de proyectos realizados por cada empleado.
     
-    • work_accident:  si el empleado ha tenido algún accidente en el trabajo o no.
+    • **work_accident:**  si el empleado ha tenido algún accidente en el trabajo o no.
     
-    • promotion_last_5years:  muestra si el empleado ha sido ascendido de cargo en los últimos cinco (5) años o no.
+    • **promotion_last_5years:**  muestra si el empleado ha sido ascendido de cargo en los últimos cinco (5) años o no.
     
-    • is_smoker: indica si el empleado es fumador o no.
+    • **is_smoker:** indica si el empleado es fumador o no.
     
-    • department:  departamento de la empresa en el cual trabaja el empleado.
+    • **department:**  departamento de la empresa en el cual trabaja el empleado.
     
-    • salary:  el salario que devenga cada empleado.
+    • **salary:**  el salario que devenga cada empleado.
 
