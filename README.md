@@ -48,7 +48,7 @@ Como el problema a resolver consiste en poder predecir que empleados se van a ir
 
 ![image](https://user-images.githubusercontent.com/58336896/140763915-798a19df-b2d5-45bf-ba42-df8000158323.png)
 
-La variable a predecir ‘left’ presentaba un desbalance en sus clases ya que 11428 registros pertenecen a la clase ‘no’ y 3571 registros a la clase ‘yes’. Como indica la gráfica de la imagen 1.3, esto nos dice que se tenía que tratar con un problema de clasificación desbalanceado, lo cual implica que se tendría que tomar medidas especiales para contar cada clase cuando se calcule su precisión.
+La variable a predecir ‘left’ presentaba un desbalance en sus clases ya que 11428 registros pertenecen a la clase ‘no’ y 3571 registros a la clase ‘yes’, esto nos dice que se tenía que tratar con un problema de clasificación desbalanceado, lo cual implica que se tendría que tomar medidas especiales para contar cada clase cuando se calcule su precisión.
 
 Luego para buscar relaciones existentes entre las distintas variables que fueran correlativamente positivas para nuestro propósito, encontré que los resultados arrojados en la última evaluación realizada a los empleados, está altamente relacionada con su nivel de satisfacción, los cuales, a su vez, una vez asociadas mostraban relación con nuestra variable target (**‘left’**). 
 
