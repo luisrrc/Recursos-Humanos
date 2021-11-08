@@ -1,5 +1,6 @@
 ![Python](https://img.shields.io/badge/Python-blue)
 
+Nota: Para ver el estudio mas detallado revisar el documento de word.
 
 # Análisis de Recursos Humanos
 
